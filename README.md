@@ -1,6 +1,16 @@
 ### Hi there 👋
 
+
 <!--
+
+Besides software engineering and technology, I am an artist!
+I like to make journals which improve my daily life. 
+Find out more here:
+I like to capture photography of sunsets and sunrises as a way to celebrate each day.
+Can see some of my photos here:
+I also am very fond of acrylic paint.
+
+
 **ashears/ashears** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
