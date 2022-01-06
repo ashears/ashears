@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am a software engineer, and artist.
+
+My preferred languages are python, and javascript. I am always open to learning new technologies!
 
 <!--
 
