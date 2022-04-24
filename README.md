@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 I am a software engineer, and artist.
-These are my favorite technologies:
 
 My preferred languages are python, and javascript. I am always open to learning new technologies!
-- 📫 How to reach me: ashton.website
+- 📫 How to reach me: [ashton.website](https://ashton.website).
 <!--
 
 Besides software engineering and technology, I am an artist!
